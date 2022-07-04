@@ -7,7 +7,7 @@
 - [Reduxjs/toolkit v.1.8](https://redux-toolkit.js.org/) 
 - [Tailwind v.3.0](https://tailwindcss.com/) 
 - [Vite v.2.9](https://vitejs.dev/)
-- [uuid v8.3](https://www.npmjs.com/package/uuid)
+- [uuid v.8.3](https://www.npmjs.com/package/uuid)
 
 ## Installation
 
